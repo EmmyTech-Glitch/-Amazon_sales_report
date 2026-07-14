@@ -1,4 +1,8 @@
 # -Amazon_sales_report
+# Executive summary
+This performance report evaluates the sales, volume, and size-level demand metrics captured in the Amazon Sales Report Dashboard. With a total generated revenue of $78,592,538 across 116,649 units sold, the business demonstrates a robust market footprint. However, a critical operational bottleneck is highlighted by an Average Quantity per order of 0.90, indicating that returns, cancellations, or single-item transactions are limiting overall order value.
+
+To maximize profitability, strategic focus must shift toward maximizing high-margin categories, optimizing inventory levels to match active size demand, and implementing cross-selling structures to raise the average basket size.
 
 # Key Performance Indicators (KPIs)
 Total Revenue: $78,592,538$ (Assuming local currency, likely INR given the "Amazon.in" filter)Total Quantity Sold: $116,649$ unitsAverage Quantity per Order: $0.90$ (This indicates that, on average, orders are either heavily single-item focused or there is a notable volume of cancelled/returned items bringing the average below 1).
