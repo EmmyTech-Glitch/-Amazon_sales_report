@@ -1,6 +1,6 @@
 # -Amazon_sales_report
 # DASHBOARD ARCHITECHTURE
-![Amazon sales report dashboard](
+![Amazon sales report dashboard](Amazon_sale_report_dashboard.png)
 
 # Executive summary
 This performance report evaluates the sales, volume, and size-level demand metrics captured in the Amazon Sales Report Dashboard. With a total generated revenue of $78,592,538 across 116,649 units sold, the business demonstrates a robust market footprint. However, a critical operational bottleneck is highlighted by an Average Quantity per order of 0.90, indicating that returns, cancellations, or single-item transactions are limiting overall order value.
